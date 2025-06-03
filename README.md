@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Naina Mogha</h1>
+<h3 align="center">MERN Stack Developer | ML & Data Science Enthusiast | MCA @ VIT Chennai</h3>
 
-<!--
-**Smiley-2003/Smiley-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 Passionate about building clean, meaningful tech  
+🎓 Researcher | Published in SSRN Conference Proceedings – Elsevier  
+💡 Always learning something new – from MERN to ML!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- 💻 Languages: **C++**, **Python**, **Java**, **JavaScript**
+- 🌐 Frontend: **React.js**, **HTML5**, **CSS3**, **Tailwind CSS**
+- ⚙️ Backend: **Node.js**, **Express.js**
+- 🛢️ Databases: **MongoDB**, **MySQL**
+- 📊 Tools: **Git**, **GitHub**, **VS Code**, **Linux**
+
+---
+
+### 🚀 Projects
+- 🧠 **Garbage Bin Status Indicator**  
+  ML-based project using CNN, published in SSRN–Elsevier
+
+- 💳 **Horizon App – Finance Dashboard**  
+  A full-stack banking app built using Next.js 14
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smiley-2003&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smiley-2003&layout=compact&theme=radical" width="47%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- 📧 **Email**: [nainamoghaofficial@gmail.com](mailto:nainamoghaofficial@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/naina-mogha](https://www.linkedin.com/in/naina-mogha)  
+- 🌐 **Portfolio**: *Coming soon!*
+
+---
+
+> *"Code. Create. Contribute. Repeat."* 🚀
