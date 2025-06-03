@@ -38,7 +38,7 @@
 ### 📫 Connect with Me
 - 📧 **Email**: [nainamoghaofficial@gmail.com](mailto:nainamoghaofficial@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/naina-mogha](https://www.linkedin.com/in/naina-mogha)  
-- 🌐 **Portfolio**: *Coming soon!*
+  
 
 ---
 
