@@ -10,7 +10,7 @@
 ---
 
 ### 🔧 Tech Stack
-- 💻 Languages:**Java**, **C++**, **Python**, , **JavaScript**
+- 💻 Languages: **Java**, **C++**, **Python**, **JavaScript**
 - 🌐 Frontend: **React.js**, **HTML5**, **CSS3**, **Tailwind CSS**
 - ⚙️ Backend: **Node.js**, **Express.js**
 - 🛢️ Databases: **MongoDB**, **MySQL**
@@ -38,7 +38,8 @@
 ### 📫 Connect with Me
 - 📧 **Email**: [nainamoghaofficial@gmail.com](mailto:nainamoghaofficial@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/naina-mogha](https://www.linkedin.com/in/naina-mogha)  
-  
+- 💻 **LeetCode**: [leetcode.com/u/nainamoghaofficial](https://leetcode.com/u/nainamoghaofficial/)  
+- 🏆 **HackerRank**: [hackerrank.com/profile/nainamoghaoffic1](https://www.hackerrank.com/profile/nainamoghaoffic1)
 
 ---
 
