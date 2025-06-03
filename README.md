@@ -10,7 +10,7 @@
 ---
 
 ### 🔧 Tech Stack
-- 💻 Languages: **C++**, **Python**, **Java**, **JavaScript**
+- 💻 Languages:**Java**, **C++**, **Python**, , **JavaScript**
 - 🌐 Frontend: **React.js**, **HTML5**, **CSS3**, **Tailwind CSS**
 - ⚙️ Backend: **Node.js**, **Express.js**
 - 🛢️ Databases: **MongoDB**, **MySQL**
