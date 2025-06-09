@@ -29,9 +29,11 @@
 
 ### 📈 GitHub Stats
 <p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Smiley-2003&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smiley-2003&layout=compact&theme=radical" width="47%" />
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smiley-2003&layout=compact&theme=radical&langs_count=10" width="47%" />
+</p>
+  
 </p>
 
 ---
